@@ -4,9 +4,7 @@
 # Lab 03 
 # Lab Section: 14
 # Sources, people worked with, help given to: 
-# your
-# comments
-# here
+# I used the introducing lists powerpoint from canvas
 
 
 
@@ -57,10 +55,14 @@ print(states)
 
 print("Part Three----------------------------------------------------------------------")
 #Temporarily sort your list, print it both sorted and unsorted 
-
+print(sorted(states))
+print(states)
 
 #Permanently sort your list in reverse order, printing it out
-
+states.reverse()
+print(states)
 
 #Using the reverse method reverse the list and print it
 
+states.reverse()
+print(states)
